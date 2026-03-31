@@ -64,5 +64,8 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    Reference: ChatGgpt.com
+    Reference: https://chatgpt.com
+               https://gemini.google.com
 
+YouTube link
+https://youtube.com/@semakalengmokgwatjana?si=Oo7KQtxM4Z9MBZMZ
